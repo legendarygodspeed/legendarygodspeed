@@ -39,6 +39,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/legendarygodspeed/legendarygodspeed/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/legendarygodspeed/legendarygodspeed/output/snake.svg)
   
 </div>
